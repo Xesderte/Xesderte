@@ -63,14 +63,6 @@ Antes de escribir la primera línea de código, analizo el panorama completo.
 | 🏥 **[Sistema Sanitario COVID-19](link-a-tu-repo)**<br>Análisis estructurado y modelado de sistemas. | 🌐 **[Portfolio](link-a-tu-futuro-portfolio)**<br>Mi portfolio personal y profesional. |
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xesderte&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Daniel" />
-</div>
-
----
-
 ### 🤝 Conectemos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-misraim-sardinas-llanos-369a2b306)
