@@ -6,17 +6,17 @@
 
 ### 🚀 Sobre mí
 * 💻 **Desarrollador Full-Stack** enfocado en el desarrollo Backend y la arquitectura de software.
-* 🎓 Mi base teórica la construyo en la **Licenciatura en Sistemas (UNTDF)** y mi práctica intensiva la consolidé en el bootcamp de **Soy Henry**[cite: 3].
+* 🎓 Mi base teórica la construyo en la **Licenciatura en Sistemas (UNTDF)** y mi práctica intensiva la consolidé en el bootcamp de **Soy Henry**.
 * 🏗️ Vengo de la industria de la construcción, lo que me forjó una mentalidad pragmática: **cimientos sólidos primero, ejecución después**.
 * 💳 Desarrollé la arquitectura transaccional y la integración de IA para **Valora Wallet**, mi proyecto más ambicioso hasta la fecha.
-* 📍 Basado en Ushuaia, Argentina.
+* 📍 Ushuaia, Argentina.
 
 ---
 
 ### 🧠 Cómo realizo un proyecto
 Antes de escribir la primera línea de código, analizo el panorama completo. 
 1. **Diseño y Arquitectura:** Creo diagramas de flujo, modelos de entidad-relación (DER) y defino los casos de uso. El análisis va primero, el código después.
-2. **Desarrollo Robusto:** Priorizo la "arquitectura de caja blanca", asegurando escalabilidad, manejo estricto de errores (como transacciones ACID) y código documentado.
+2. **Desarrollo Robusto:** Priorizo la arquitectura en la programación y base de datos, asegurando escalabilidad, manejo estricto de errores (como transacciones ACID) y código documentado.
 3. **Integración:** Apalanco mi flujo de trabajo con herramientas de Inteligencia Artificial para auditar seguridad, generar tests y optimizar algoritmos complejos.
 
 ---
