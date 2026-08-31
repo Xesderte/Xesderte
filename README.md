@@ -55,13 +55,12 @@ Antes de escribir la primera línea de código, analizo el panorama completo.
 
 ### 📂 Proyectos Destacados
 
-* 💳 **[Valora Wallet](https://github.com/nexotsolutions-creator/valora-wallet-backend)** — Billetera digital multi-moneda (Fintech). Motor transaccional ACID en PostgreSQL, API REST y asistente de IA Gemini integrado[cite: 3].
-* 🤖 **[AutomateHub (MCP)](link-a-tu-repo)** — Servidor JSON-RPC en Node.js/TypeScript para que agentes de IA orquesten operaciones en GitHub[cite: 3].
-* 🤠 **[ComicSansCon AI](link-a-tu-repo)** — Chatbot interactivo orquestado con Gemini y Vercel Serverless Functions.
-* ✅ **[Gestor de Tareas](link-a-tu-repo)** — Aplicación Full-Stack con integración serverless de AWS SES.
-* 🎵 **[Clon YouTube Music BD](link-a-tu-repo)** — Diseño de arquitectura relacional (DER y scripts SQL).
-* 🏥 **[Sistema Sanitario COVID-19](link-a-tu-repo)** — Análisis estructurado y modelado de sistemas.
-
+| | |
+| :--- | :--- |
+| 💳 **[Valora Wallet](https://github.com/nexotsolutions-creator/valora-wallet-backend)**<br>Billetera digital multi-moneda (Fintech). Motor transaccional ACID en PostgreSQL, API REST y asistente de IA Gemini integrado. | 🤖 **[AutomateHub (MCP)](link-a-tu-repo)**<br>Servidor JSON-RPC en Node.js/TypeScript para que agentes de IA orquesten operaciones en GitHub. |
+| 🤠 **[ComicSansCon AI](link-a-tu-repo)**<br>Chatbot interactivo orquestado con Gemini y Vercel Serverless Functions. | ✅ **[Gestor de Tareas](link-a-tu-repo)**<br>Aplicación Full-Stack con integración serverless de AWS SES. |
+| ⚛️ **[Suite de SPAs React](link-a-tu-repo)**<br>Colección de 6 aplicaciones frontend aplicando TypeScript, Zustand, Context API y consumo asíncrono. | 🎵 **[Clon YouTube Music BD](link-a-tu-repo)**<br>Diseño de arquitectura relacional (DER y scripts SQL). |
+| 🏥 **[Sistema Sanitario COVID-19](link-a-tu-repo)**<br>Análisis estructurado y modelado de sistemas. | 🌐 **[Portfolio](link-a-tu-futuro-portfolio)**<br>Mi portfolio personal y profesional. |
 ---
 
 ### 📊 GitHub Stats
