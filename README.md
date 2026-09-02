@@ -60,7 +60,7 @@ Antes de escribir la primera línea de código, analizo el panorama completo.
 | 💳 **[Valora Wallet](https://github.com/nexotsolutions-creator/valora-wallet-backend)**<br>Billetera digital multi-moneda (Fintech). Motor transaccional ACID en PostgreSQL, API REST y asistente de IA Gemini integrado. | 🤖 **[AutomateHub (MCP)](https://github.com/Xesderte/mcp-agent.git)**<br>Servidor JSON-RPC en Node.js/TypeScript para que agentes de IA orquesten operaciones en GitHub. |
 | 🤠 **[ComicSansCon AI](https://github.com/Xesderte/Chat_Personaje.git)**<br>Chatbot interactivo orquestado con Gemini y Vercel Serverless Functions. | ✅ **[Gestor de Tareas](https://github.com/Xesderte/Gestor_de_Tareas.git)**<br>Aplicación Full-Stack con integración serverless de AWS SES. |
 | ⚛️ **[Suite de SPAs React](https://github.com/Xesderte/Proyectos_React.git)**<br>Colección de 6 aplicaciones frontend aplicando TypeScript, Zustand, Context API y consumo asíncrono. | 🎵 **[Clon YouTube Music BD](https://github.com/Xesderte/Base-de-Datos-YouTube-Music.git)**<br>Diseño de arquitectura relacional (DER y scripts SQL). |
-| 🏥 **[Sistema Sanitario COVID-19](https://github.com/Xesderte/Sistema-Sanitario-COVID---19.git)**<br>Análisis estructurado y modelado de sistemas. | 🌐 **[Portfolio](link-a-tu-futuro-portfolio)**<br>Mi portfolio personal y profesional. |
+| 🏥 **[Sistema Sanitario COVID-19](https://github.com/Xesderte/Sistema-Sanitario-COVID---19.git)**<br>Análisis estructurado y modelado de sistemas. | 🌐 **[Portfolio](https://portafolio-jade-chi-59.vercel.app)**<br>Mi portfolio personal y profesional. |
 ---
 
 ### 🤝 Conectemos
